@@ -1,1 +1,1 @@
-Para primer commit
+Manual de usuario de la app. Versión inicial.
